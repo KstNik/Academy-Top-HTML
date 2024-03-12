@@ -64,7 +64,7 @@ HTML elements are the building blocks of HTML pages. With HTML constructs, image
 
 Markup
 
-HTML markup consists of several key components, including those called tags (аnd their attributes), character-based data types, character references and entity references. HTML tags most commonly come in pairs like <h1> and </h1>, although some represent empty elements and so are unpaired, for example <img>. The first tag in such a pair is the start tag, and the second is the end tag (they are also called opening tags and closing tags).
+HTML markup consists of several key components, including those called tags (their attributes), character-based data types, character references and entity references. HTML tags most commonly come in pairs like <h1> and </h1>, although some represent empty elements and so are unpaired, for example <img>. The first tag in such a pair is the start tag, and the second is the end tag (they are also called opening tags and closing tags).
 
 Another important component is the HTML document type declaration, which triggers standards mode rendering.
 
