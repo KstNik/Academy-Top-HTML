@@ -7,7 +7,7 @@
 ### Тема: "Форматирование текста при помощи HTML"
 
 Задание 1. Создать html-страницу “Romeo and Juliet”. Пример конечного результата:        
-![Uploading Romeo and Juliet.png…]()
+![RomeoAndJuliet](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/0b84d735-2907-4f64-ac9a-2e0ede27ad97)
 
 Текст к заданию:
 
