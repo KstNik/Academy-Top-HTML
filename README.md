@@ -92,7 +92,7 @@ Tags: CodingScripting head HTML Introduction to HTML Landing Links semantics Str
 ▪ более тёмный фон у одного элемента списка;        
 ▪ самый тёмный фон только под текстом.        
 А также добавить отступы (margin и padding), чтобы достигнуть такого результата:        
-![Задание 02 01 ''Список фруктов''](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/5441f928-0671-412e-a4b9-ef62e995c9ba)
+![List of fruits](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/b22039da-f64a-4747-a682-bd038d6b7d94)
 
 Задание 2. Реализовать html-страницу со списком задач.        
 Для визуального разделения списка чётные и нечётные элементы имеют голубой фон с разными оттенками.        
@@ -100,19 +100,22 @@ Tags: CodingScripting head HTML Introduction to HTML Landing Links semantics Str
 Красный крестик можно отобразить с помощью спецсимвола.        
 Иконки для выполнения задания прикреплены к данному pdf-файлу.*        
 Пример конечного результата:        
-![Задание 02 02 ''Список задач''](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/56f0cafd-af38-40c4-9397-9ee51a964229)
+![Task list](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/10274a21-f12a-4b41-a959-a03cb8bdad5e)
 
 Задание 3. Реализовать html-страницу с определением слова tag.        
 При выполнении задания вам понадобится использовать и список определений (dl, dt, dd) и простой список (ol, li).        
 Страницу стилизовать так, как показано на изображении ниже:        
-![Задание 02 03 ''Определение слова tag''](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/b5544f17-b00b-40ae-af01-407d1f3fe97f)
+![Definition of tag](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/e3a44633-e550-40dd-8252-67fbfd673680)
 
 Текст для выполнения задания:
+
+TAG
+[tжg]
 
 noun
 a label attached to someone or something for the purpose of identification or to give other information.
 "he gave his pet a collar with a metal name tag"
-synonyms: label, ticket, badge, mark, marker, tab, tally, sticker, docket, stub, chit, chitt, counterfoi, flag, stamp
+synonyms: label, ticket, badge, mark, marker, tab, tally, sticker, docket, stub, chit, chitt, counterfoi, flag, stamp 
 "a price tag"
 a small piece or part that is attached to a main body.
 verb
