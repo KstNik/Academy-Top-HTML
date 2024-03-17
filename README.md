@@ -45,10 +45,10 @@ GREGORY
 No, for then we should be colliers.
 
 Задание 2. Создать html-страницу “Card game”. Для отображения мастей карт используйте спецсимволы. Пример конечного результата:        
-![Сards](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/fad27b96-8436-454e-bd55-d5c1c1daa349)
+![Сards](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/f0e6b0c4-f36c-42b3-8522-7aaeecb52dbd)
 
 Задание 3. Создать html-страницу “HTML Tutorial”. Для выполнения задания используйте как теги физического форматирования (h1-h6, p, span, pre и другие), так и теги логического форматирования (abbr, code, dfn и другие). Пример конечного результата:        
-![HTML_Tutorial](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/658533b8-5e4a-43c9-a1f7-8747d141ee3d)
+![HTML Tutorial](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/891970fc-9efe-4409-bb28-2c39b7e02371)
 
 Текст к заданию:
 
