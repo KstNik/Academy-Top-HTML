@@ -81,3 +81,46 @@ The following is an example of the classic "Hello, World!" program:
     </html>
     
 Tags: CodingScripting head HTML Introduction to HTML Landing Links semantics Structure Text
+
+## Homework 02
+
+### Тема: "Форматирование при помощи CSS. Списки. CSS отступы и поля"
+
+Задание 1. Реализовать html-страницу со списком фруктов.        
+Необходимо стилизовать список следующим образом:        
+▪ светлый фон у всего списка;        
+▪ более тёмный фон у одного элемента списка;        
+▪ самый тёмный фон только под текстом.        
+А также добавить отступы (margin и padding), чтобы достигнуть такого результата:        
+![Задание 02 01 ''Список фруктов''](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/5441f928-0671-412e-a4b9-ef62e995c9ba)
+
+Задание 2. Реализовать html-страницу со списком задач.        
+Для визуального разделения списка чётные и нечётные элементы имеют голубой фон с разными оттенками.        
+Отмеченные элементы имеют серый фон, иконку с галочкой и их текст зачеркнут. Неотмеченные элементы списка отображаются с иконкой без галочки.        
+Красный крестик можно отобразить с помощью спецсимвола.        
+Иконки для выполнения задания прикреплены к данному pdf-файлу.*        
+Пример конечного результата:        
+![Задание 02 02 ''Список задач''](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/56f0cafd-af38-40c4-9397-9ee51a964229)
+
+Задание 3. Реализовать html-страницу с определением слова tag.        
+При выполнении задания вам понадобится использовать и список определений (dl, dt, dd) и простой список (ol, li).        
+Страницу стилизовать так, как показано на изображении ниже:        
+![Задание 02 03 ''Определение слова tag''](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/b5544f17-b00b-40ae-af01-407d1f3fe97f)
+
+Текст для выполнения задания:
+
+noun
+a label attached to someone or something for the purpose of identification or to give other information.
+"he gave his pet a collar with a metal name tag"
+synonyms: label, ticket, badge, mark, marker, tab, tally, sticker, docket, stub, chit, chitt, counterfoi, flag, stamp
+"a price tag"
+a small piece or part that is attached to a main body.
+verb
+attach a label to.
+"mothers suspected that their babies had been wrongly tagged during an alarm at the hospital"
+synonyms: label, attach tags to, put a label on, mark, ticket, earmark, identify, docket, flag, indicate
+"the bottles were tagged with colour-coded labels"
+add to something, especially as an afterthought or with no real connection.
+"she meant to tag her question on at the end of her remarks"
+synonyms: add, tack, join, attach, append, affix, annex 
+"their heads were so large that the rest of their bodies seemed tagged on as an afterthought"
