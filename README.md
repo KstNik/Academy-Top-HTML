@@ -48,7 +48,7 @@ No, for then we should be colliers.
 ![Сards](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/f0e6b0c4-f36c-42b3-8522-7aaeecb52dbd)
 
 Задание 3. Создать html-страницу “HTML Tutorial”. Для выполнения задания используйте как теги физического форматирования (h1-h6, p, span, pre и другие), так и теги логического форматирования (abbr, code, dfn и другие). Пример конечного результата:        
-![HTML Tutorial](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/891970fc-9efe-4409-bb28-2c39b7e02371)
+![HTML Tutorial](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/15cf8934-ff92-4ffc-a7fc-cf8de3f388b9)
 
 Текст к заданию:
 
