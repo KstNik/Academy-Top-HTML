@@ -132,7 +132,7 @@ synonyms: add, tack, join, attach, append, affix, annex
 
 ### Тема: "Списки"
 
-Задание 1. Реализовать html-страницу со списком времён года.        
+Задание 1. Реализовать html-страницу со списком времен года.        
 Пример конечного результата:        
 ![Seasons](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/45f873f0-def7-4b37-914f-bdc6738d8ee1)
 
