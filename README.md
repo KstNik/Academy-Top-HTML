@@ -128,6 +128,19 @@ add to something, especially as an afterthought or with no real connection.
 synonyms: add, tack, join, attach, append, affix, annex 
 "their heads were so large that the rest of their bodies seemed tagged on as an afterthought"
 
+## Homework 03
+
+### Тема: "Списки"
+
+Задание 1. Реализовать html-страницу со списком времён года.        
+Пример конечного результата:
+![Seasons](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/45f873f0-def7-4b37-914f-bdc6738d8ee1)
+
+Задание 2. Реализовать html-страницу с содержанием статьи.        
+Обратите внимание, что у нумерации и текста разные стили (цвет и жирность).        
+Пример конечного результата:        
+![Content article](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/ad9f72bf-6f95-4f2f-a251-eca2e4aae34a)
+
 ## Тесты
 
 1. Test 01 "Структура HTML. Форматирование текста при помощи HTML"
