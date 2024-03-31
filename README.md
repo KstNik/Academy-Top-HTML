@@ -176,7 +176,7 @@ synonyms: add, tack, join, attach, append, affix, annex
 Футер состоит из двух колонок с пунктами меню и трех иконок социальных сетей.        
 При наведении мышкой на пункт меню он должен становиться подчёркнутым. При наведении на иконки социальных сетей они должны становиться цветными (для этого используйте background-image).        
 Пример конечного результата без наведения мышкой:        
-![Footer](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/307abd07-6523-4b90-881a-878b9d19512a)
+![Footer](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/307abd07-6523-4b90-881a-878b9d19512a)        
 Пример конечного результата с наведением мышкой на ссылки (News и YouTube):        
 ![Footer mouse hover](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/f23c2359-2527-4df0-874f-f2f3dfc7a36b)
 
