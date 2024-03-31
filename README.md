@@ -152,7 +152,7 @@ synonyms: add, tack, join, attach, append, affix, annex
 ▪ при изменении ширины браузера, в одну строку должно помещаться максимальное количество продуктов (на первом скриншоте в одной строке поместилось 5 продуктов, на втором – 4 продукта);        
 ▪ после списка продуктов должна быть подпись that’s all.        
 Пример конечного результата (ширина браузера 1000 пикселей):        
-![List of products full](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/828a954a-af19-4646-8dcf-33135ae94860)
+![List of products full](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/828a954a-af19-4646-8dcf-33135ae94860)        
 Пример конечного результата (ширина браузера 800 пикселей):        
 ![List of products](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/a442d17e-e2ea-47b8-b240-206706bb198c)
 
