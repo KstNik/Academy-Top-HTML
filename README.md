@@ -205,4 +205,5 @@ synonyms: add, tack, join, attach, append, affix, annex
 При клике на маленькое изображение-ссылку, большое изображение должно измениться на выбранное. Рекомендуем большое изображение выводить с помощью iframe. При запуске страницы место большого изображения не должно пустовать, там должна отображаться первая картинка из галереи.        
 Добавьте необходимые рамки, как на скриншоте.        
 Пример конечного результата:        
-![Image galleries](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/cceed0db-cd9a-45dc-9701-020ec54bdad3)
+![Image gallery](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/6a6c26c5-b4e2-4221-bb28-cbbcfb12d5a7)
+
