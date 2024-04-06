@@ -206,4 +206,3 @@ synonyms: add, tack, join, attach, append, affix, annex
 Добавьте необходимые рамки, как на скриншоте.        
 Пример конечного результата:        
 ![Image gallery](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/6a6c26c5-b4e2-4221-bb28-cbbcfb12d5a7)
-
