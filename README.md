@@ -194,6 +194,8 @@ synonyms: add, tack, join, attach, append, affix, annex
 Пример конечного результата (при наведении мышкой на блок Standard):        
 ![Subscription plan hover](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/9c4a9d48-6107-4e53-81b0-337c02dcfc20)
 
+#### Лабораторные работы
+
 ## LaboratoryWork 01
 
 ### Тема: "Адаптивная вёрстка"
@@ -203,6 +205,8 @@ synonyms: add, tack, join, attach, append, affix, annex
 ## Тесты
 
 1. Test 01 "Структура HTML. Форматирование текста при помощи HTML"
+
+#### Работа на уроках
 
 ## Workinclass 01
 
