@@ -180,6 +180,20 @@ synonyms: add, tack, join, attach, append, affix, annex
 Пример конечного результата с наведением мышкой на ссылки (News и YouTube):        
 ![Footer mouse hover](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/f23c2359-2527-4df0-874f-f2f3dfc7a36b)
 
+## Homework 05
+
+### Тема: "Flexbox"
+
+Задание. Реализовать html-страницу с выбором плана подписки.        
+Требования:        
+▪ верстать с помощью блоков;        
+▪ при наведении на блок он должен плавно (за 1 секунду) увеличиваться в ширину и высоту, но при этом остальные блоки не двигаются (скриншот 2).        
+При выполнении задания можно обойтись без создания отдельной анимации, а использовать стиль transition.        
+Пример конечного результата (без наведения мышкой):        
+![Задание 05 03 1 ''Subscription plan''](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/5b7f2a30-a60a-49d2-9d84-ff830a6945b8)
+Пример конечного результата (при наведении мышкой на блок Standard):        
+![Задание 05 03 2 ''Subscription plan hover''](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/3ab55538-45bf-4c2b-bb81-ad07281c1736)
+
 ## LaboratoryWork 01
 
 ### Тема: "Адаптивная вёрстка"
