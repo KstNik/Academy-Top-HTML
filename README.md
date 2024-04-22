@@ -189,10 +189,10 @@ synonyms: add, tack, join, attach, append, affix, annex
 ▪ верстать с помощью блоков;        
 ▪ при наведении на блок он должен плавно (за 1 секунду) увеличиваться в ширину и высоту, но при этом остальные блоки не двигаются (скриншот 2).        
 При выполнении задания можно обойтись без создания отдельной анимации, а использовать стиль transition.        
-Пример конечного результата (без наведения мышкой):
-![Задание 05 03 1 ''Subscription plan''](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/5b7f2a30-a60a-49d2-9d84-ff830a6945b8)
-Пример конечного результата (при наведении мышкой на блок Standard):
-![Задание 05 03 2 ''Subscription plan hover''](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/3ab55538-45bf-4c2b-bb81-ad07281c1736)
+Пример конечного результата (без наведения мышкой):        
+![Subscription plan](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/ffc81939-0e55-40c1-b866-f5ae5c642e0e)
+Пример конечного результата (при наведении мышкой на блок Standard):        
+![Subscription plan hover](https://github.com/KstNik/Academy-Top-HTML/assets/117995964/9c4a9d48-6107-4e53-81b0-337c02dcfc20)
 
 ## LaboratoryWork 01
 
