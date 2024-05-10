@@ -210,7 +210,7 @@ synonyms: add, tack, join, attach, append, affix, annex
 
 ## LaboratoryWork 02
 
-### Тема: "Фреймворк "Bootstrap"
+### Тема: "Размещение элементов"
 
 Задание. Разместить элементы на html-странице с помощью фреймворка "Bootstrap".
 
